@@ -6,16 +6,11 @@
 * [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#𝐂𝐨𝐧𝐭𝐚𝐜𝐭)
 * [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞](#𝐀𝐛𝐨𝐮𝐭-𝐦𝐞)
 * [𝐂𝐕](#𝐂𝐕)
-* [𝐒𝐤𝐢𝐥𝐥𝐬](#𝐒𝐤𝐢𝐥𝐥𝐬)
-  
-* [Tools](#tools)
-* [Courses](#courses)
-* [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+* [𝐄𝐱𝐚𝐦𝐩𝐥𝐞𝐬 𝐨𝐟 𝐦𝐲 𝐰𝐨𝐫𝐤](#𝐄𝐱𝐚𝐦𝐩𝐥𝐞𝐬-𝐨𝐟-𝐦𝐲-𝐰𝐨𝐫𝐤)
+  * [Automation Testing of a FreshFruit Website Using Selenium](#Automation-Testing-of-a-FreshFruit-Website-Using-Selenium)
+  * [FreshFruit Web Manual Testing Project](#FreshFruit-Web-Manual-Testing-Project)
+* [𝐂𝐨𝐮𝐫𝐬𝐞𝐬](#𝐂𝐨𝐮𝐫𝐬𝐞𝐬)
+
 
 ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 📞 0372872548   ||   📧 iiam.qlam@gmail.com || 🏠 Ho Chi Minh City
@@ -65,36 +60,39 @@ __Testing__
 - Bug Tracking
     - Know how to create bug reports.
 
-## Courses
+## 𝐄𝐱𝐚𝐦𝐩𝐥𝐞𝐬 𝐨𝐟 𝐦𝐲 𝐰𝐨𝐫𝐤
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
-
-## Examples of my work
-
-### Test cases and work in TestRail
+### Automation Testing of a FreshFruit Website Using Selenium
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+  * Test case for checking the addition of items to the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+  * Integration testing for the scenario "Add a new product and check that product on the user's product page." (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
   * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).  
+
+### FreshFruit Web Manual Testing Project
+
+- Create test cases
+  * Test case for checking the addition of items to the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+  * Integration testing for the scenario "Add a new product and check that product on the user's product page." (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+
+- Working with Jira
+
+## 𝐂𝐨𝐮𝐫𝐬𝐞𝐬
+ 
+__Foundations of Agile Software Testing__  
+*online courses by Mary Ann Schatteman, Udemy*  
+Introductory overview of agile software testing and compares waterfall, iterative and agile methodologies.
+
+__RESTful API Testing with Postman__  
+*online courses by Zakaria Chowdhury, Udemy*  
+Test RESTful APIs with Postman.
+
+__Selenium WebDriver with Java__  
+*online courses by Vaibhav Singhal, Udemy*  
+Knowledge about various Test Automation Frameworks.
 
 
