@@ -6,8 +6,8 @@
 * [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#𝐂𝐨𝐧𝐭𝐚𝐜𝐭)
 * [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞](#𝐀𝐛𝐨𝐮𝐭-𝐦𝐞)
 * [𝐂𝐕](#𝐂𝐕)
+* [𝐒𝐤𝐢𝐥𝐥𝐬](#𝐒𝐤𝐢𝐥𝐥𝐬)
   
-* [𝐒𝐤𝐢𝐥𝐥𝐬](#skills)
 * [Tools](#tools)
 * [Courses](#courses)
 * [Examples of my work](#examples-of-my-work)
@@ -31,63 +31,39 @@ Eager to dive into every aspect of testing, I'm ready to learn everything at the
 ## 𝐂𝐕
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
 
-## Skills
+## 𝐒𝐤𝐢𝐥𝐥𝐬
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+__Language__
+- Applying the principles of object-oriented programming (OOP) to design a program in C#.
+- Designing and implementing a complete web application using HTML, CSS, JavaScript, and ASP.NET.
+- Building a basic game program using the Java language.
+- Designing and implementing a complete web application using Angular.
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+__Database__
+- Writing server-side processing using Stored Procedures and various constraints using Triggers.
+- Know the difference between joins and unions and can use them in queries.
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+__Management tools__
+- Using Jira for Project Management, Progress Tracking, Bug Tracking, Feature Management, Tasks, and Improvements.
+- Using GitHub and GitKraken for Source Code Management in Projects.
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
-
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
-
-## Tools
-
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
-
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+__Testing__
+- Can create test cases and checklists and know how and in which situations to use them effectively.
+- Test perform testing the functions of the software
+    - Smoke Testing
+    - Interface testing
+    - Integration testing
+    - Regression testing
+- Test the performance of software functions
+    - Performance Testing
+    - Reliability Tests
+    - Load Testing
+- GUI Test
+- Create Test Script (Selenium, NUnit).
+- Bug Tracking
+    - Know how to create bug reports.
 
 ## Courses
 
