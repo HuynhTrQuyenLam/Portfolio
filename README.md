@@ -2,10 +2,11 @@
 
 # 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
 
-* [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#contact)
+* [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#Contact)
+* [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#Contact)
 * [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞](#about-me)
 * [𝐂𝐕](#cv)
-* [Skills](#skills)
+* [𝐒𝐤𝐢𝐥𝐥𝐬](#skills)
 * [Tools](#tools)
 * [Courses](#courses)
 * [Examples of my work](#examples-of-my-work)
