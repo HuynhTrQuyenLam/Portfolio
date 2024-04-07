@@ -1,4 +1,5 @@
-![bg](https://github.com/HuynhTrQuyenLam/Portfolio/assets/114284524/78f20dfa-de34-4680-8873-5530051b51e5)
+![Beige Minimal Creative Portfolio Presentation](https://github.com/HuynhTrQuyenLam/Portfolio/assets/114284524/79bc47d6-c96d-4dd3-afd5-b06767e9e50d)
+
 
 # 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
 
