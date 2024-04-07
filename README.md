@@ -2,10 +2,10 @@
 
 # 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
 
-* [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#Contact)
-* [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#Contact)
-* [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞](#about-me)
-* [𝐂𝐕](#cv)
+* [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](#𝐂𝐨𝐧𝐭𝐚𝐜𝐭)
+* [𝐀𝐛𝐨𝐮𝐭 𝐦𝐞](#𝐀𝐛𝐨𝐮𝐭-𝐦𝐞)
+* [𝐂𝐕](#𝐂𝐕)
+  
 * [𝐒𝐤𝐢𝐥𝐥𝐬](#skills)
 * [Tools](#tools)
 * [Courses](#courses)
@@ -17,7 +17,7 @@
 - [Books I have read](#books-i-have-read)
 
 ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
-
+📞 0372872548   ||   📧 iiam.qlam@gmail.com || 🏠 Ho Chi Minh City
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
@@ -26,7 +26,8 @@
 Hi, I'm Lam, currently a third-year student majoring in Software Technology at HUFLIT. I'm on a journey to explore the world of Software Testing with enthusiasm and dedication.
 
 Eager to dive into every aspect of testing, I'm ready to learn everything at the starter level, and keep developing, improving my knowledge and abilities.
-## CV
+
+## 𝐂𝐕
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
 
 ## Skills
