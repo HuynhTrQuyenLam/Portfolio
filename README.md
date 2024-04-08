@@ -64,23 +64,21 @@ __Testing__
 
 ### Automation Testing of a FreshFruit Website Using Selenium
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the addition of items to the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-  * Integration testing for the scenario "Add a new product and check that product on the user's product page." (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).  
-
+- Create test cases
+ 
+- Test script
+https://www.notion.so/Test-Script-83779e612f444dc3a7d440e6daa055ed?pvs=4
+ 
 ### FreshFruit Web Manual Testing Project
 
 - Create test cases
-  * Test case for checking the addition of items to the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-  * Integration testing for the scenario "Add a new product and check that product on the user's product page." (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-
+  * Test case for checking the order process (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1JvQGOHNnCyOM7ZxX-q4pyF8HEvp-mYUmp6cG0Fq9E9Q/edit?usp=sharing).
+  * Test case for checkin the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1fE7qDw1GGy8v-lxKwTXk-q8hMo4-7GAykF7bPYxA0Xg/edit?usp=sharing).
+  
 - Working with Jira
-
+  * Test case for checking the order process (in Vietnamese). See [the screenshots from Jira here](link). 
+  * Test case for checkin the cart (in Vietnamese). See [the screenshots from Jira here](link).
+ 
 ## 𝐂𝐨𝐮𝐫𝐬𝐞𝐬
  
 __Foundations of Agile Software Testing__  
