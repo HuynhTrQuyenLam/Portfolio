@@ -76,8 +76,8 @@ https://www.notion.so/Test-Script-83779e612f444dc3a7d440e6daa055ed?pvs=4
   * Test case for checkin the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1fE7qDw1GGy8v-lxKwTXk-q8hMo4-7GAykF7bPYxA0Xg/edit?usp=sharing).
   
 - Working with Jira
-  * Test case for checking the order process (in Vietnamese). See [the screenshots from Jira here](link). 
-  * Test case for checkin the cart (in Vietnamese). See [the screenshots from Jira here](link).
+  * See [the screenshots from Jira here](link). 
+ 
  
 ## 𝐂𝐨𝐮𝐫𝐬𝐞𝐬
  
