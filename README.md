@@ -65,10 +65,9 @@ __Testing__
 ### Automation Testing of a FreshFruit Website Using Selenium
 
 - Create test cases
- 
-- Test script
-https://www.notion.so/Test-Script-83779e612f444dc3a7d440e6daa055ed?pvs=4
- 
+* Test case for checkin the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1sUFmgLxdKCLAs7YUBFWF_0DfxTsSzoN_4L3_c_uNU3g/edit?usp=sharing).
+- Test script (NUnit). Check [Test Script here](https://www.notion.so/Test-Script-83779e612f444dc3a7d440e6daa055ed?pvs=4)
+
 ### FreshFruit Web Manual Testing Project
 
 - Create test cases
@@ -76,7 +75,7 @@ https://www.notion.so/Test-Script-83779e612f444dc3a7d440e6daa055ed?pvs=4
   * Test case for checkin the cart (in Vietnamese). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1fE7qDw1GGy8v-lxKwTXk-q8hMo4-7GAykF7bPYxA0Xg/edit?usp=sharing).
   
 - Working with Jira
-  * See [the screenshots from Jira here](link). 
+  * See [the screenshots from Jira here](https://drive.google.com/file/d/1E3NqWCzR3P9wyBGY-6Lp-IIo1Beg_2Hx/view?usp=sharing). 
  
  
 ## 𝐂𝐨𝐮𝐫𝐬𝐞𝐬
